@@ -1,6 +1,4 @@
----
-title: Modifier les labs de POTs de Lionel
----
+## Modifier les labs de POTs de Lionel
 
 L’idée est de proposer des ajouts, modifications ou corrections sur le
 projet de Lionel. Vous réalisez ces modifications ou corrections en
@@ -20,8 +18,7 @@ Prérequis :
 
 -   avoir installé la ligne de commande de Git
 
-Etape 1 : Faire un fork du référentiel de Lionel
-================================================
+#### Etape 1 : Faire un fork du référentiel de Lionel
 
 Cliquer sur « Fork »
 
@@ -36,8 +33,7 @@ Pour que votre référentiel soit à jour il va falloir le synchroniser
 avec celui de Lionel. Pour cela nous allons créer un clone local de
 votre référentiel et nous allons le synchroniser avec celui de Lionel
 
-Etape 2 : Faire un clone local de votre référentiel
-===================================================
+#### Etape 2 : Faire un clone local de votre référentiel
 
 Pour créer un clone de votre référentiel :
 
@@ -90,8 +86,7 @@ upstream https://github.com/lionelmace/bluemix-labs.git (fetch)
 
 upstream https://github.com/lionelmace/bluemix-labs.git (push)
 
-Etape 3 : Mettre à jour son référentiel
-=======================================
+#### Etape 3 : Mettre à jour son référentiel
 
 Pour mettre à jour son référentiel, on va faire un fetch sur le
 référentiel de Lionel pour récupérer les dernières modifications :
@@ -169,8 +164,7 @@ To https://github.com/jmoliva/bluemix-labs\_jmo.git
 
 3fec4ed..0d74732 master -&gt; master
 
-Etape 4 : Faire les modifications et les proposer
-=================================================
+#### Etape 4 : Faire les modifications et les proposer
 
 Editer le fichier Readme.md dans votre référentiel (par exemple avec
 Prose ?)
